@@ -4,7 +4,7 @@
 Create a function addCheck() That returns true/false if the sum given variables x and y correctly add up to z.
 
 ## **Examples**  
->addcheck(2, 2, 4)  
+>addCheck(2, 2, 4)  
 true
 
 
